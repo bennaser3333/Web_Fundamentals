@@ -1,0 +1,31 @@
+ 
+
+.button {
+    color:rgb(22, 241, 22);
+     border-radius: 30px;
+    width  : 222px ;
+    height :33px ;
+    border-color: rgb(22, 241, 22);
+    /* border: rgb(48, 204, 42); */ */
+}
+.sircle {
+    color: rgb(245, 248, 246);
+    background-color: rgb(122, 236, 122);
+      font-size: 35px;
+     border-radius: 100%;
+     width  : 50px ;
+     height :50px ;
+     border-color: rgb(255, 255, 255);
+}
+ 
+    
+.buttoncreateaccounta {
+    color: rgb(255, 255, 255);
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+     width  : 222px ;
+     height :44px ;
+     background-color: rgb(76, 57, 247);
+     border-radius: 1%;
+ 
+}
+ 
