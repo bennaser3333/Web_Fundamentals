@@ -1,0 +1,55 @@
+.container{
+    width: 1222px;
+    background-color: silver;
+    margin: 22px auto;
+    padding: 22px;
+ 
+}
+.top-nav {
+    height: 166px;
+    background-color: green;
+}
+.side-nav {
+    height: 333px;
+    width: 222px;
+    background-color: blue;
+    margin: 11px auto;
+    padding: 11px;
+    /* padding: 22px; */
+    
+    /* display: flex; */
+}
+.main {
+    height: 555px;
+    width: 899px;
+    background-color: red;
+    margin: 11px auto;
+    padding: 22px;
+    /* display: flex; */
+}
+.sub-content {
+    height: 200px;
+    width: 266px;
+    background-color: yellow;
+   
+    /* margin: 1px auto; */
+    padding: 11px;
+}
+#advertisement {
+    height: 144px;
+    width: 850px;
+    background-color: purple;
+     margin: 66px auto;
+    padding: 22px;
+    display: flex;
+
+}
+.row {
+    /* margin: 11px auto; */
+
+    display: flex; 
+    /* TODO - what should go here? */
+    /* يوزع المسافه بين اللون الاصفر  */
+    justify-content:space-between  ;
+}
+
