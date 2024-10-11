@@ -12,9 +12,9 @@
 }
  
 .div1{
-    background-color: rgb(2, 43, 43);
+    background-color: aqua;
     width: 1892px;
-    height: 90px;
+    height: 200px;
     width: 777px;
 
 }
@@ -44,7 +44,6 @@
     padding:0px 390px 01px 0px ;
     border-color: rgb(192, 21, 21);
     border: 11px;
-    color: black;
 }
 img {
     
