@@ -1,0 +1,81 @@
+.container{
+/* display: flex; */
+margin: 31px 220px 210px 334px;
+}
+
+.up{
+background-color: rgb(216, 228, 228);
+
+display: flex;
+align-items: center;
+gap: 222px;
+justify-content: center;
+
+}
+
+.up button{
+color: rgb(255, 255, 255);
+background-color: blue;
+/* border-radius: 99px; */
+height: 22px;
+width: 99px;
+ }
+
+.box1{
+height: 300px;
+width: 444px;
+background-color: rgb(216, 228, 228);
+display: flex;
+align-content: center;
+justify-content: center;
+align-items: center;
+
+gap: 33px;
+border: 12px;
+border-color: black;
+ }
+ .box1 button{
+    color: rgb(255, 255, 255);
+background-color: rgb(209, 196, 16);
+/* border-radius: 99px; */
+height: 33px;
+width: 99px;
+ }
+.box2{
+    /* margin: 22px; */
+    
+    height: 300px;
+    width: 444px;
+    background-color: rgb(216, 228, 228);
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    gap: 33px;
+    }
+    .box2 button{
+        color: rgb(255, 255, 255);
+    background-color: rgb(209, 196, 16);
+    /* border-radius: 99px; */
+    height: 33px;
+    width: 99px;
+     }
+.box3{
+        height: 300px;
+        width: 444px;
+        background-color: rgb(216, 228, 228);
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        gap: 22px;
+margin:  -636px 155px 138px 462px; 
+
+
+}
+.box3 .button{
+ width: 222px;
+height: 44px;
+background-color: rgb(6, 219, 102);
+border: 11px;
+border-color: black;
+ }
